@@ -20,9 +20,9 @@ Depends:
 License: CCO
 LazyData: true
 Imports:
-    reshape2
-    xts
-    zoo
+    reshape2 (>= 1.4.0)
+    xts (>= 0.9.0)
+    zoo (>= 1.7.0)
 Suggests:
     knitr
 VignetteBuilder: knitr
