@@ -21,8 +21,8 @@ License: CCO
 LazyData: true
 Imports:
     reshape2
-	xts
-	zoo
+    xts
+    zoo
 Suggests:
     knitr
 VignetteBuilder: knitr
