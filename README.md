@@ -9,7 +9,7 @@ if(!require(devtools)){
 	install.packages('devtools')
 	library(devtools)
 }
-devtools::install_github('rabutler/RWDataPlot')
+devtools::install_github('tjrocha/RWDataPlot')
 ```
 
 ## Log:
